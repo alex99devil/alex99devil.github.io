@@ -1,6 +1,0 @@
-Complexitate temporala : O(n), deoarece este necesara doar parcurgerea vectorului.
-Complexitate spatiala : O(n), deoarece sunt utilizate un vector pentru pastrarea elementelor si un map.
-
-    Deoarece nu a fost mentionat in enunt, am rezolvat cazul problemei in care vectorul nu are duplicate.In cazul
-in care ar exista duplicate rezovarea nu mai este valabila, complexitatea temporala minima a unei eventuale 
-rezolvari fiind O(nlogn).
