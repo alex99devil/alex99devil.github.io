@@ -1,0 +1,8 @@
+    Pe langa informatiile oferite deja in varianta curenta a CV-ului trimis, ca si resurse online
+ce mi se par foarte utile in rezolvarea diferitelor probleme pe care le intampin se pot gasi 
+la urmatoarele locatii:
+  - https://www.geeksforgeeks.org/
+  - Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson , Ronald L. Rivest
+, Clifford Stein
+  - https://infoarena.ro/
+  - https://leetcode.com/
